@@ -7,7 +7,7 @@
   
   <h3>AWS Certified Generative AI Developer - Professional (Early Adopter) ☁️ | AI Engineer 🤖 | Data Scientist 📊</h3>
   
-  <img src="path/to/your/aws-badge-image.png" alt="AWS Certified Generative AI Developer Professional Early Adopter" width="150"/>
+  <img src="BADGE.png" alt="AWS Certified Generative AI Developer Professional Early Adopter" width="150"/>
 </div>
 
 ---
